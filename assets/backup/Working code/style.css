@@ -19,7 +19,6 @@ body {
   clear: both;
   
 }
-
 .container a:hover {
     background-color: #ddd;
     color: black;
@@ -113,7 +112,7 @@ footer {
   text-align: center;
   background: #666666;
   border-top: 8px solid #4aaaa5;
-  height: 110px;
+  height: 50px;
 }
 
 h3, h2 {
