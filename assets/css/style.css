@@ -98,6 +98,10 @@ nav a {
   border-left: 1px solid #efefef;
 }
 
+.nav .icon.topnav .icon {
+  display: none;
+}
+
 nav a:first-child {
   border-left: 0 none;
 }
@@ -222,6 +226,7 @@ input[type=submit] {
   border: 0 none;
 }
 
+/*Fits screens for mobile sites*/
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
   [class*="col"] {
